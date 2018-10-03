@@ -3,7 +3,7 @@
 
 	"env": {
 		"browser": true,
-		"jquery": true,
+		"jquery": true,//false
 		"qunit": true
 	},
 	"globals": {
